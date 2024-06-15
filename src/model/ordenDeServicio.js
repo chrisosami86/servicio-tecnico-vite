@@ -11,6 +11,5 @@ export class OrdenDeServicio {
         this.tipoTrabajo = tipoTrabajo;
         this.tecnico = tecnico;
         this.estado = false;
-
     }
 }
